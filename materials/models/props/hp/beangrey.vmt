@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "hp/beangrey"
+	"$surfaceprop" "default"
+	"$nodecal" 1
+}
