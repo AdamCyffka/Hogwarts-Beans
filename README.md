@@ -3,7 +3,7 @@ A spawnable beans system for Garry's Mod !
 
 Features
 -------
-Spawnable beans system for Garry's Mod.
+Spawnable beans system for Garry's Mod. With a counter !
 
 How to use it?
 -------
