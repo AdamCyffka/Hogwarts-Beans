@@ -18,7 +18,5 @@ Go to lua/autorun/hp_settings.lua to edit settings such respawn point.
 Preview
 -------
 <p align="center">
-<img alt="Beans" src="https://i.imgur.com/5ErsS6g.jpg">
-<img alt="Beans" src="https://i.imgur.com/0PiHpYC.jpg">
-<img alt="Beans" src="https://i.imgur.com/fZf6GJv.jpg">
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=pZIOUnwbs-Y&t=1s)
 </p>
